@@ -41,7 +41,7 @@ timezone:    Europe/Paris
 future:      true
 highlighter: rouge
 #highlighter: pygments
-markdown:    kramdown
+markdown:    redcarpet
 gems:
   - jekyll-sitemap
 sass:
