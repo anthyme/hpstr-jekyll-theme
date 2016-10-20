@@ -1,7 +1,16 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 gem 'jekyll'
 gem 'coderay'
 gem 'sass', '3.4.5'
 gem 'octopress', '~> 3.0.0.rc.12'
 gem 'jekyll-sitemap'
+
+gem 'pygments.rb'
+gem 'jekyll-paginate'
+gem 'jekyll-coffeescript'
+gem 'jekyll-gist'
+gem 'pygments.rb'
+gem 'redcarpet'
+gem 'toml'
+gem 'classifier-reborn'

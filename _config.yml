@@ -6,13 +6,13 @@ words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 #url: 'http://localhost:4000'
-url: 'http://burnaftercoding.github.io'
+url: 'http://burnaftercoding.com'
 
 # Owner/author information
 owner:
   name:           Anthyme Caillard
   avatar:         avatar.jpg
-  bio:            "Software craftsman C# and F# addict Agile fan"
+  bio:            "Software craftsman Dotnet addict &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Agile fan"
   email:          
   #email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
@@ -45,6 +45,7 @@ highlighter: rouge
 markdown:    redcarpet
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 sass:
   sass_dir: _sass
   style: compressed
@@ -54,13 +55,16 @@ permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
+# paginate_path: "/page:num/"
+
+reading_time: false
 
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: true
 
   coderay:
     coderay_line_numbers: nil
@@ -70,4 +74,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", ]
