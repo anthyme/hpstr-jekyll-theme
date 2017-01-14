@@ -16,7 +16,7 @@ image:
 
 Le marché des applications mobiles se développe énormément ces dernières années jusqu'au point où l'utilisation d'internet sur mobile est devenue supérieure à l'usage d'internet sur ordinateur.
 
-![Internet mobile desktop market](https://dl.dropboxusercontent.com/u/44389563/blog/code/why-xamarin-strategy-mobile/internetmobiledesktopmarket.jpg)
+![Internet mobile desktop market](/images/article/why-xamarin-strategy-mobile/internetmobiledesktopmarket.jpg)
 
 Aujourd'hui les entreprises présentes sur le Web ont tout intérêt à se positionner sur le mobile si ce n'est pas déjà fait, sous peine de perdre une exposition importante à leurs utilisateurs.
 
@@ -33,7 +33,7 @@ Ces approches offrent une expérience du plus petit dénominateur commun des dif
 Et plus on tente de paraitre natif, plus l'effort de développement est important et le gain sur les coûts par rapport à une application native est donc amoindri.
 Il ne faut pas oublier qu'il y a encore de la fragmentation entre les différents navigateurs mobiles et que donc la promesse d'écriture unique du code n'est pas encore réelle.
 
-![WebView blackbox](https://dl.dropboxusercontent.com/u/44389563/blog/code/why-xamarin-strategy-mobile/webviewblackbox.png)
+![WebView blackbox](/images/article/why-xamarin-strategy-mobile/webviewblackbox.png)
 
 ##Approche native spécifique ou "silo"
 
@@ -43,7 +43,7 @@ Il en résulte un projet multiplateformes avec des équipes différentes (une pa
 L'utilisation d'outils de développements différents rend difficile les ponts que l'on souhaiterait créer entre les plateformes.
 Cette approche est bien plus qualitative que l'approche Webview mais est pleine de challenges.
 
-![Native silo](https://dl.dropboxusercontent.com/u/44389563/blog/code/why-xamarin-strategy-mobile/nativesilo.png)
+![Native silo](/images/article/why-xamarin-strategy-mobile/nativesilo.png)
 
 ##Approche Xamarin
 
@@ -54,7 +54,7 @@ Au-delà de l'économie sur l'écriture du code partagé, avec ces fondamentaux 
 Bien souvent les API proposées par Xamarin sont adaptées à .Net et proposent une utilisation bien plus efficace que l’API officielle en utilisant les avantages de la plateforme .Net.
 Il faut aussi garder à l'esprit que TOUT ce que vous pouvez faire en ObjectiveC/Swift ou Java peut être fait avec C# en Xamarin dans Visual Studio.
 
-![Xamarin](https://dl.dropboxusercontent.com/u/44389563/blog/code/why-xamarin-strategy-mobile/xamarinform.png)
+![Xamarin](/images/article/why-xamarin-strategy-mobile/xamarinform.png)
 
 ##Performances natives
 
@@ -65,14 +65,14 @@ Avec Xamarin IOS le code source est compilé entièrement en AOT (Ahead Of Time)
 
 Avec Xamarin Android on a une compilation en code intermédiaire puis une compilation JIT (Just In Time) à l'exécution avec la plateforme .Net telle que le fait la JVM sur les applications Android développées en Java.
 
-![Performances](https://dl.dropboxusercontent.com/u/44389563/blog/code/why-xamarin-strategy-mobile/performances.jpg)
+![Performances](/images/article/why-xamarin-strategy-mobile/performances.jpg)
 
 ##C♯
 
 C# est un langage moderne, simple, typé statiquement, multi usages, orienté objet et compatible programmation fonctionnelle. Bien que s'inspirant d'une syntaxe classique, il a reçu tout au long de sa vie des ajouts réguliers de fonctionnalités avancées comme par exemple Linq comme mécanisme de requête au niveau syntaxique ou encore les async/await permettant de créer du code asynchrone avec la simplicité d'écriture du code séquentiel, ce qui est vraiment un gros plus pour le développement d'applications mobiles. Autour de ce langage s'est construit une grande communauté, des outils avancés et des bibliothèques éprouvées.
 En quelques mots C# est vraiment un excellent langage pour le développement multiplateforme.
 
-![C#](https://dl.dropboxusercontent.com/u/44389563/blog/code/why-xamarin-strategy-mobile/csharp.png)
+![C#](/images/article/why-xamarin-strategy-mobile/csharp.png)
 
 ##Plus de partages de code avec Xamarin Forms
 
@@ -82,7 +82,7 @@ Seuls les accès aux fonctionnalités spécifiques à la plateforme sont à impl
 Cette approche est une abstraction de l'approche native et encapsule des contrôles natifs. On garde donc de la cohérence UI par rapport à la plateforme contrairement à l’approche WebView.
 Aujourd'hui plus de 40 Pages, Layouts, et Contrôles sont disponibles. Le framework est très moderne, très productif avec une approche de DataBinding et MVVM similaire à ce que l'on trouve dans WinRT. Il incorpore aussi des patterns de navigation, une API d'animation, une IoC et un messenger.
 
-![Xamarin Forms](https://dl.dropboxusercontent.com/u/44389563/blog/code/why-xamarin-strategy-mobile/xamarinforms.jpg)
+![Xamarin Forms](/images/article/why-xamarin-strategy-mobile/xamarinforms.jpg)
 
 ##Support Day 0
 
@@ -90,7 +90,7 @@ Un autre point important sur ce type de technologie, qui s'appuie sur des techno
 Sur ce sujet, Xamarin est extrêmement réactif sur la livraison de mise à jour et supporte les SDK le jour de leur sortie.
 Il s'agit aussi d'un support plus large. Au-delà des plateformes mobiles IOS et Android, Xamarin supporte aussi Google Glass, Android Wear, Apple Watch, Amazon Phone/TV et bien d'autres.
 
-![2,5 milliard de dispositifs](https://dl.dropboxusercontent.com/u/44389563/blog/code/why-xamarin-strategy-mobile/3milliarsdispositifs.jpg)
+![2,5 milliard de dispositifs](/images/article/why-xamarin-strategy-mobile/3milliarsdispositifs.jpg)
 
 ##Des outils All stars
 
@@ -100,7 +100,7 @@ Xamarin nous fournit un émulateur Android de très bonne qualité qui, à sa so
 On trouve Xamarin Insights qui vous permet de traquer les crashs de votre application mais aussi de tracer l'utilisation que les utilisateurs font de votre application.
 Dernier outil en date, et non des moindres, Xamarin Test Cloud. Une plateforme cloud permettant d'exécuter des tests applicatifs automatisés (unitaires ou UI) directement sur un millier de modèles de téléphones différents.
 
-![Xamarin Insights](https://dl.dropboxusercontent.com/u/44389563/blog/code/why-xamarin-strategy-mobile/xamarininsights.png)
+![Xamarin Insights](/images/article/why-xamarin-strategy-mobile/xamarininsights.png)
 
 ##Conclusion
 

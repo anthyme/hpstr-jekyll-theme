@@ -492,4 +492,4 @@ With some nice algorithms (correctly timed) you can transform the points capture
 You can find the source code associated to this article [here][github-link]
 
 [github-link]: https://github.com/anthyme/CanvasDraw
-[drawSomethingImage]:    https://dl.dropboxusercontent.com/u/44389563/blog/code/draw-something-with-html5/CanvasDraw.png
+[drawSomethingImage]:    /images/article/draw-something-with-html5/CanvasDraw.png

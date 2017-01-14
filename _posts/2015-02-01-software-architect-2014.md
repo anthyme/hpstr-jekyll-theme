@@ -485,34 +485,34 @@ Vous pouvez retrouver les différentes sessions en vidéo sur le site officiel d
 
 [softarch14-website]: http://software-architect.co.uk/
 
-[softarch14-this-is-water-func-programming]:    https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-this-is-water-func-programming.jpg
+[softarch14-this-is-water-func-programming]:    /images/article/software-architect-2014/software-architect-2014-this-is-water-func-programming.jpg
 
-[softarch14-death-of-agile-scrum-master]:       https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-death-of-agile-scrum-master.jpg
-[softarch14-death-of-agile-agile-killers]:      https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-death-of-agile-agile-killers.jpg
-[softarch14-death-of-agile-companies]:          https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-death-of-agile-companies.jpg
+[softarch14-death-of-agile-scrum-master]:       /images/article/software-architect-2014/software-architect-2014-death-of-agile-scrum-master.jpg
+[softarch14-death-of-agile-agile-killers]:      /images/article/software-architect-2014/software-architect-2014-death-of-agile-agile-killers.jpg
+[softarch14-death-of-agile-companies]:          /images/article/software-architect-2014/software-architect-2014-death-of-agile-companies.jpg
 
-[softarch14-microservices-scalability]:         https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-microservices-scalability.jpg
-[softarch14-microservices-polyglot]:            https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-microservices-polyglot.jpg
+[softarch14-microservices-scalability]:         /images/article/software-architect-2014/software-architect-2014-microservices-scalability.jpg
+[softarch14-microservices-polyglot]:            /images/article/software-architect-2014/software-architect-2014-microservices-polyglot.jpg
 
-[softarch14-emergent-design-unknown-unknowns]:          https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-emergent-design-unknown-unknowns.jpg
-[softarch14-emergent-design-idiomatic-patterns]:        https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-emergent-design-idiomatic-patterns.jpg
-[softarch14-emergent-design-sonar]:                     https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-emergent-design-sonar.jpg
-[softarch14-emergent-design-predictive]:                https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-emergent-design-predictive.jpg
+[softarch14-emergent-design-unknown-unknowns]:          /images/article/software-architect-2014/software-architect-2014-emergent-design-unknown-unknowns.jpg
+[softarch14-emergent-design-idiomatic-patterns]:        /images/article/software-architect-2014/software-architect-2014-emergent-design-idiomatic-patterns.jpg
+[softarch14-emergent-design-sonar]:                     /images/article/software-architect-2014/software-architect-2014-emergent-design-sonar.jpg
+[softarch14-emergent-design-predictive]:                /images/article/software-architect-2014/software-architect-2014-emergent-design-predictive.jpg
 
-[softarch14-architecture-review-conceptual-integrity]:  https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-architecture-review-conceptual-integrity.jpg
-[softarch14-architecture-review-costs]:                 https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-architecture-review-costs.jpg
-[softarch14-architecture-review-usability]:             https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-architecture-review-usability.jpg
-[softarch14-architecture-review-performances]:          https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-architecture-review-performances.jpg
-[softarch14-architecture-review-forces]:                https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-architecture-review-forces.jpg
+[softarch14-architecture-review-conceptual-integrity]:  /images/article/software-architect-2014/software-architect-2014-architecture-review-conceptual-integrity.jpg
+[softarch14-architecture-review-costs]:                 /images/article/software-architect-2014/software-architect-2014-architecture-review-costs.jpg
+[softarch14-architecture-review-usability]:             /images/article/software-architect-2014/software-architect-2014-architecture-review-usability.jpg
+[softarch14-architecture-review-performances]:          /images/article/software-architect-2014/software-architect-2014-architecture-review-performances.jpg
+[softarch14-architecture-review-forces]:                /images/article/software-architect-2014/software-architect-2014-architecture-review-forces.jpg
 
-[softarch14-software-cells-circle]:         https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-circle.jpg
-[softarch14-software-cells-system]:         https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-system.jpg
-[softarch14-software-cells-actors]:         https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-actors.jpg
-[softarch14-software-cells-resources]:      https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-resources.jpg
-[softarch14-software-cells-adapter]:        https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-adapter.jpg
-[softarch14-software-cells-actors2]:        https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-actors2.jpg
-[softarch14-software-cells-resources2]:     https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-resources2.jpg
-[softarch14-software-cells-split1]:         https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-split1.jpg
-[softarch14-software-cells-split2]:         https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-split2.jpg
-[softarch14-software-cells-final]:          https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-final.jpg
-[softarch14-software-cells-todo]:           https://dl.dropboxusercontent.com/u/44389563/blog/code/software-architect-2014/software-architect-2014-software-cells-todo.jpg
+[softarch14-software-cells-circle]:         /images/article/software-architect-2014/software-architect-2014-software-cells-circle.jpg
+[softarch14-software-cells-system]:         /images/article/software-architect-2014/software-architect-2014-software-cells-system.jpg
+[softarch14-software-cells-actors]:         /images/article/software-architect-2014/software-architect-2014-software-cells-actors.jpg
+[softarch14-software-cells-resources]:      /images/article/software-architect-2014/software-architect-2014-software-cells-resources.jpg
+[softarch14-software-cells-adapter]:        /images/article/software-architect-2014/software-architect-2014-software-cells-adapter.jpg
+[softarch14-software-cells-actors2]:        /images/article/software-architect-2014/software-architect-2014-software-cells-actors2.jpg
+[softarch14-software-cells-resources2]:     /images/article/software-architect-2014/software-architect-2014-software-cells-resources2.jpg
+[softarch14-software-cells-split1]:         /images/article/software-architect-2014/software-architect-2014-software-cells-split1.jpg
+[softarch14-software-cells-split2]:         /images/article/software-architect-2014/software-architect-2014-software-cells-split2.jpg
+[softarch14-software-cells-final]:          /images/article/software-architect-2014/software-architect-2014-software-cells-final.jpg
+[softarch14-software-cells-todo]:           /images/article/software-architect-2014/software-architect-2014-software-cells-todo.jpg

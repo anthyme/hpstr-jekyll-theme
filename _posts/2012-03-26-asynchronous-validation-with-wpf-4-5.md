@@ -187,4 +187,4 @@ You can find the source code associated to this article [here][github-link]
 
 [github-link]: https://github.com/anthyme/AsyncValidation
 
-[asyncValidationImage]: https://dl.dropboxusercontent.com/u/44389563/blog/code/asynchronous-validation-with-wpf-4-5/AsyncValidation.png
+[asyncValidationImage]: /images/article/asynchronous-validation-with-wpf-4-5/AsyncValidation.png

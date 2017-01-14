@@ -213,5 +213,5 @@ You can find the source code associated to this article [here][github-link]
 
 If you try and you have any observations do not hesitate to comment. ;-)
 
-[benchmarkEfImage]: https://dl.dropboxusercontent.com/u/44389563/blog/code/objects-graph-loading-in-entity-framework/graphloading.png
+[benchmarkEfImage]: /images/article/objects-graph-loading-in-entity-framework/graphloading.png
 [github-link]: https://github.com/anthyme/EfGraphLoading

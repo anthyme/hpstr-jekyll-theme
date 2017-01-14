@@ -201,7 +201,7 @@ There are many customizations available like data encryption, log, performance t
  
 With this configuration a Commits table will be automatically created at the first usage.
 
-![Commits](https://dl.dropboxusercontent.com/u/44389563/blog/code/play-with-neventstore/commits.png)
+![Commits](/images/article/play-with-neventstore/commits.png)
 
 ####Add and retrieve an event
 
@@ -288,7 +288,7 @@ The principle of snapshots is simple. If you have too many events for a stream, 
  
 The storage of the snapshot is really simple, it is a simple serialized payload stored in an auto created Snapshots table.
  
-![Snapshots](https://dl.dropboxusercontent.com/u/44389563/blog/code/play-with-neventstore/snapshots.png)
+![Snapshots](/images/article/play-with-neventstore/snapshots.png)
  
 ####Snapshot model
  

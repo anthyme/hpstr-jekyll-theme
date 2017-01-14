@@ -32,7 +32,7 @@ Si vous voulez apprendre un art martial vous allez pratiquer pendant 30 minutes 
 Dans le cadre d'une formation au travail votre employeur va chercher environ une fois par an une formation sur 2/3 jours.
 A votre avis, quelle approche est la plus efficace ? A chacun de juger. ;-)
 
-<img src="https://dl.dropboxusercontent.com/u/44389563/blog/code/software-craftsmanship-coding-dojo-techdays/dojo.jpg" alt="Dojo" width="640" />
+<img src="/images/article/software-craftsmanship-coding-dojo-techdays/dojo.jpg" alt="Dojo" width="640" />
 
 ## Le coding dojo "Fruit Shop"
 
@@ -61,4 +61,4 @@ Pour aller plus loin sur les coding dojos je vous encourage à consulter le site
 Et pour les lecteurs je vous conseille ce livre sur le Software Craftmanship : 
 *[The Software Craftsman: Professionalism, Pragmatism, Pride](http://www.goodreads.com/book/show/18054154-software-craftsmanship)* de Sandro Mancuso.
 
-<img src="https://dl.dropboxusercontent.com/u/44389563/blog/code/software-craftsmanship-coding-dojo-techdays/book.jpg" width="320" />
+<img src="/images/article/software-craftsmanship-coding-dojo-techdays/book.jpg" width="320" />

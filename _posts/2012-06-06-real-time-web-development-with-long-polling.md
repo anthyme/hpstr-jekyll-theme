@@ -556,4 +556,4 @@ I will probably create an article with SignalR if it's useful (there are already
 You can find the source code associated to this article [here][github-link]
 
 [github-link]: https://github.com/anthyme/LongPollingChat
-[longPollingResultImage]: https://dl.dropboxusercontent.com/u/44389563/blog/code/real-time-web-development-with-long-polling/LongPooling.png
+[longPollingResultImage]: /images/article/real-time-web-development-with-long-polling/LongPooling.png

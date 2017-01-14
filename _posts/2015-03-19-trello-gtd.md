@@ -40,17 +40,17 @@ On peut aussi ouvrir une carte et l'enrichir avec une description (que l'on peut
  
 Vous pouvez aussi [créer des cartes par email](http://blog.trello.com/create-cards-via-email/) ce qui vous permet d'enrichir facilement votre board dans des situations ou vous ne voulez/pouvez pas accéder à Trello.
  
-![trello](https://dl.dropboxusercontent.com/u/44389563/blog/code/trello-gtd/trello.png)
+![trello](/images/article/trello-gtd/trello.png)
  
 Ce qui est vraiment puissant avec Trello c'est le fait de pouvoir, en un coup d'œil, avoir une analyse rapide de la situation de ce que votre board représente.
  
 On trouve aussi des *powerups* qui sont des fonctionnalités plus avancées comme par exemple le calendrier permettant de visualiser les cartes sur un calendrier certes, mais aussi d'avoir un accès direct et synchronisé depuis google calendar, ical, etc dans vos applications de calendrier préférées ou sur votre téléphone.
  
-![calendar](https://dl.dropboxusercontent.com/u/44389563/blog/code/trello-gtd/calendar.png)
+![calendar](/images/article/trello-gtd/calendar.png)
 
 On trouve aussi une fonctionnalité de vote et une fonctionnalité de vieillissement des cartes qui leur donne un aspect de plus en plus vieux au fur et à mesure qu'on ne s'occupe pas d'une carte.
 
-![card aging](https://dl.dropboxusercontent.com/u/44389563/blog/code/trello-gtd/trello-card-aging.png)
+![card aging](/images/article/trello-gtd/trello-card-aging.png)
  
 Maintenant passons aux choses sérieuses avec mon usage de Trello et GTD.
  
@@ -58,8 +58,8 @@ Maintenant passons aux choses sérieuses avec mon usage de Trello et GTD.
  
 Le GTD s'intègre parfaitement dans Trello, vous pouvez voir ici un instantané de mon board dédié au GTD :
  
-<a href="https://dl.dropboxusercontent.com/u/44389563/blog/code/trello-gtd/trello-gtd.png" target="_blank">
-![trello gtd](https://dl.dropboxusercontent.com/u/44389563/blog/code/trello-gtd/trello-gtd.png)
+<a href="/images/article/trello-gtd/trello-gtd.png" target="_blank">
+![trello gtd](/images/article/trello-gtd/trello-gtd.png)
 </a>
  
 On retrouve sur mon board ces différentes listes :
